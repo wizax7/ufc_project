@@ -22,3 +22,14 @@ A comprehensive tool for in-depth UFC data analysis. This project collects stati
 2. Run using Docker:
     ```bash 
     docker-compose up --build -d
+
+## 📊 A few examples of graphs:
+
+### 🗓 The average interval between events in each year:
+![Intervals Graph](img/event_intervals_per_year.png)
+
+### 📍 The most frequently used countries for events:
+![Countries Graph] (img/most_used_countries.png)
+
+### 📈 The most frequent headliners of events:
+![Headliners Graph] (img/top_ufc_headliners.png)

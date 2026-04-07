@@ -12,4 +12,4 @@ ufc_events.ipynb
 .env
 old_visualize.py
 analytics.sql
-.plots
+plots/
