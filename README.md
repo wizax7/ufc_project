@@ -29,7 +29,7 @@ A comprehensive tool for in-depth UFC data analysis. This project collects stati
 ![Intervals Graph](img/event_intervals_per_year.png)
 
 ### 📍 The most frequently used countries for events:
-![Countries Graph] (img/most_used_countries.png)
+![Countries Graph](img/most_used_countries.png)
 
 ### 📈 The most frequent headliners of events:
-![Headliners Graph] (img/top_ufc_headliners.png)
+![Headliners Graph](img/top_ufc_headliners.png)
